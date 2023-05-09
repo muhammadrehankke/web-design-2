@@ -1,0 +1,694 @@
+@media (max-width:1365px){
+    .container{
+        max-width:1140px;
+    }
+
+    nav ul{
+        padding: 0px 162px;
+    }
+
+    .banner-text{
+        padding: 268px 0 0px 80px;
+    }
+
+    .service-card img{
+      width:100%;
+    }
+
+
+    .service-row{
+        margin: 0px -12px;
+    }
+
+    .service-col{
+        padding:0px 12px;
+    }
+
+    .service-card-text h3 {
+        font-size: 41px;
+    }
+
+    .service-card-text p { 
+        font-size: 21px;
+        margin-bottom:0;
+    }
+
+    .service-text {
+        padding: 0px 263px;
+    }
+
+    .banner-section .btn{
+        padding: 14px 88px;
+    }
+
+    .service-card-text-01 .btn a {
+        padding: 14px 105px;
+    }
+
+    .service-card-text-01 p {
+        font-size: 19px;
+    }
+
+    .service-card-text-01 h3 {
+        font-size: 42px;
+    }
+
+    .card-text {
+        text-align: center;
+        padding: 0px 266px;
+    }
+
+    .service-card-row {
+        margin: 0 -12px;
+      }
+
+      .service-card-col {
+        padding: 0 12px;
+      }
+
+      .dance-col-01 {
+        width: 50%;
+      }
+
+      .stat-text{
+        padding: 0px 265px;
+      }
+}
+
+@media (max-width:1199px){
+
+    .container{
+        max-width:960px;
+        padding:0px 30px;
+    }
+
+
+    nav ul {
+        padding: 0px 109px;
+    }
+
+    nav li {
+        font-size: 21px;
+    }
+
+    nav i{
+        font-size: 25px;
+      }
+
+      .banner-text h1 {
+        font-size: 68px;
+      }
+
+      .banner-text p {
+        font-size: 19px;
+      }
+
+      .banner-section .btn {
+        margin-top: 35px;
+      }
+
+      .service-row{
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+      }
+      
+      .service-col{
+        flex:0 0 50%;
+        margin-top: 20px;
+      }
+
+      .service-card img{
+        width:100%;
+      }
+
+      .service-text {
+        padding: 0px 206px;
+      }
+
+      .service-card-row{
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+      }
+    
+      .service-card-col {
+        flex: 0 0 50%;
+        margin-top:20px;
+      }
+
+      .service-card-text-01 .btn {
+        padding: 16px 154px;
+      }
+
+      .card-text{
+        padding: 0px 233px;
+      }
+
+      .dance-text h2 {
+        font-size: 50px;
+        margin-bottom: 30px;
+      }
+     
+      .dance-text p {
+        font-size: 16px;
+      }
+
+      .stat-text p {
+        font-size: 20px;
+        margin-bottom: 101px;
+      }
+
+      .robert-content p {
+        font-size: 27px;
+      }
+
+      form input {
+        width: 448px;
+      }
+
+      .form-text {
+        max-width: 693px;
+      }
+
+      .footer-col-1 {
+        flex: 0 0 100%;
+        padding-right: 76px;
+      }
+
+      .footer-col-1 p {
+        padding-top: 10px;
+        word-spacing: 0px;
+      }
+
+      .icons-02 i {
+        font-size: 33px;
+        margin: 17px 5px;
+      }
+
+      .footer-col-2 {
+        flex: 0 0 20%;
+        padding-left:0px;
+        margin-top: 50px;
+      }
+
+      .service-card-box {
+        padding: 48px 0px;
+      }
+
+}
+
+@media (max-width:991px){
+    .container{
+        max-width:720px;
+        padding:0px 30px;
+    }
+		.logo {
+  margin-left: -35px;
+}
+
+    .service-card-011{
+	 background-image:none;	
+	}
+	
+    nav button{
+        display: none;
+    }
+
+    nav ul{
+        position: absolute;
+        top:100%;
+        left:0;
+        right:0;
+        background: #e8631c;
+        height:0;
+        transition: all 0.4s;
+        flex-direction: column;
+        overflow: hidden;
+       
+    }
+    
+        nav ul.actives{
+         height:380px;
+    }
+
+    nav li{
+        text-align: center;
+        padding-left:0;
+        margin-top:36px;
+    
+    }
+    
+        .humburger{
+        position: absolute;
+        right:37px;
+        bottom:28px;
+        display: block;
+        cursor: pointer;
+    }
+   
+        .humburger .line{
+        width:28px;
+        height:3px;
+        margin:5px;
+        background: #e8631c;
+
+    }
+
+    .banner-section{
+        background-position:50%;
+    }
+
+    .banner-text {
+        padding: 243px 121px 0 23px;
+    }
+
+    .banner-text p {
+        font-size: 17px;
+      }
+
+      .service-card img{
+        width:100%;
+      }
+
+      .service-col {
+        flex: 0 0 50%;
+      }
+
+      .service-card-text-01 {
+        padding-top: 11px;
+      }
+
+      .service-card-011 .btn{
+        padding: 9px 91px;
+      }
+
+      .service-card-box img {
+        padding-top: 30px;
+      }
+
+      .service-card-box {
+        padding: 24px 0px;
+      }
+
+      .service-card-col {
+        flex: 0 0 50%;
+      }
+
+
+      .service-card-text p {
+        font-size: 16px;
+      }
+
+      .service-card-text-01 h3 {
+        font-size: 29px;
+      }
+
+      .service-card-text-01 h3{
+        font-size:35px;
+      }
+
+      .banner-text h1 {
+        font-size: 59px;
+      }
+
+      .service-text {
+        padding: 0px 81px;
+      }
+
+      .card-text {
+        padding: 0px 111px;
+      }
+
+
+      .dance-text {
+        padding: 0px 40px;
+        width: 649px;
+      }
+
+      .dance-text h2 {
+        font-size: 37px;
+      }
+
+      .dance-text .btn{
+        padding: 10px 69px;
+      }
+
+      
+      .stat-content span{
+        font-size: 40px;
+      }
+
+      .stat-content h4 {
+        font-size: 25px;
+      }
+
+      .robert-col {
+        max-width: 666px;
+      }
+
+      .footer-col-2 {
+        flex: 0 0 28%;
+      }
+
+      form input {
+        width: 367px;
+      }
+
+      form input {
+        padding: 11px 25px;
+        font-size: 20px;
+      }
+
+      form button {
+        padding: 14px 60px;
+        font-size: 16px;
+      }
+
+      .icons-02 i {
+        font-size: 22px;
+      }
+}
+
+@media (max-width:767px){
+    .container{
+        max-width:540px;
+        padding:0px 20px;
+    }
+
+    .logo{
+      margin-left: -25px;
+    }
+	
+	.service-card-text-01 p {
+      padding:0px 30px;
+      margin-top: 16px;
+}
+
+    .humburger{
+      right:20px;
+      bottom:33px;
+    }
+    
+
+    .banner-section{
+        background-position: 70%;
+    }
+
+    .banner-text{
+        padding: 307px 210px 0 23px;
+    }
+
+    .banner-text h1 {
+        font-size: 42px;
+      }
+
+      .banner-text p {
+        font-size: 14px;
+      }
+
+      .banner-section .btn{
+        margin-top: 25px;
+      }
+
+      .banner-section .btn{
+        padding: 7px 46px;
+        font-size: 19px;
+      }
+
+      .service-col {
+        flex: 0 0 100%;
+      }
+
+      .service-card-col {
+        flex: 0 0 100%;
+      }
+	  
+	  .service-text {
+  padding: 0px 31px;
+}
+
+      .service-text h2 {
+        font-size: 50px;
+      }
+
+      .service-text p {
+        font-size: 16px;
+      }
+
+      .card-text h2 {
+        font-size: 50px;
+      }
+
+      .card-text p {
+        font-size: 16px;
+      }
+
+      .card-text {
+        padding: 0px 84px;
+      }
+
+      .service-card-text {
+        padding: 25px 25px;
+      }
+
+      .dance-text {
+        padding: 0px 28px;
+      }
+
+      .service-card img{
+        width:100%;
+      }
+
+      .service-card-box {
+        padding: 67px 0px;
+      }
+
+      .service-card-text-01 {
+        padding-top: 45px;
+      }
+
+      .service-card-011 .btn {
+        margin-top: 29px;
+      }
+
+      .service-card-011 .btn {
+        padding: 16px 118px;
+      }
+
+
+      .dance-text h2 {
+        font-size: 25px;
+      }
+
+      .dance-text p {
+        font-size: 14px;
+      }
+
+      .dance-text .btn{
+        padding: 5px 42px;
+        font-size: 15px;
+      }
+
+
+      .stat-content span {
+        font-size: 35px;
+      }
+
+      .stat-content h4 {
+        font-size: 21px;
+      } 
+
+      .robert-col {
+        max-width: 492px;
+      }
+
+      .robert-content p {
+        font-size: 20px;
+      }
+
+      .form-text h2 {
+        font-size: 45px;
+      }
+
+      .form-text p {
+        font-size: 16px;
+      }
+
+      form input {
+        width: 280px;
+        padding: 11px 9px;
+      }
+
+      form button {
+        padding: 14px 29px;
+      }
+
+      .footer-col-1 p {
+        font-size: 16px;
+      }
+
+      .footer-col-2 a {
+        font-size: 16px;
+      }
+
+}
+
+@media (max-width:575px){
+    .container{
+        max-width:100%;
+        padding: 0px 30px;
+    }
+	
+	.logo {
+  margin-left: -15px;
+}
+
+    .banner-section{
+      height:100vh;
+    }
+
+    .service-text h2 {
+      font-size: 40px;
+    }
+
+    .service-text p {
+      font-size: 16px;
+    }
+
+    .service-card-text-01 .btn{
+      margin-top: 20px;
+    }
+
+    .banner-text{
+      padding: 243px 10px 0 11px;
+    }
+
+    .banner-text p{
+      font-size: 16px;
+    }
+
+    .service-text {
+        padding: 0px 15px;
+      }
+
+      .service-card img {
+        width:100%;
+      }
+
+      .service-col {
+        flex: 0 0 100%;
+      }
+
+      .service-card-text h3 {
+        font-size: 35px;
+      }
+
+      .service-card-text p {
+        font-size: 16px;
+      }
+
+  
+
+      .service-card-col{
+        flex:0 0 100%;
+      }
+
+      .service-card-box {
+        padding: 60px 0px;
+      }
+
+
+      .service-card-text-01 h3 {
+        font-size: 40px;
+      }
+
+      .service-card-text-01 p {
+        font-size: 17px;
+      }
+
+      .service-card-text-01 .btn{
+        padding: 13px 91px;
+        margin-top: 45px;
+      }
+
+      .dance-row {
+        display: flex;
+        flex-direction: column;
+      }
+
+      .dance-col {
+        flex: 0 0 100%;
+      }
+
+      .dance-col-01 {
+        width: 100%;
+       padding: 150px 0px;
+      }
+
+      .dance-row-1 {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+
+
+      .stat-content span {
+        font-size: 24px;
+      }
+
+      .stat-content h4 {
+        font-size: 14px;
+      }
+
+      .robert-section {
+        padding: 237px 0px;
+      }
+
+      .robert-content{
+        padding: 0px 18px;
+      }
+
+      .robert-content p{
+        font-size: 16px;
+      }
+
+      .robert-content h2 {
+        font-size: 43px;
+      }
+
+      form input {
+        width: 195px;
+      }
+
+      form button {
+        padding: 14px;
+      }
+
+      .footer-col-1{
+        padding-left:10px;
+      }
+
+      .humburger{
+        bottom:32%;
+      }
+
+      .footer-col-1 h3 {
+        font-size: 25px;
+      }
+
+      .footer-col-2 h3{
+            font-size: 25px;
+      }
+
+      .footer-col-2{
+        padding-left:10px;
+      }
+
+      .robert-section{
+        background-position: 62%;
+      }
+
+      .service-card-text-01 {
+        padding-top: 44px;
+      }
+
+}
